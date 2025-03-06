@@ -26,5 +26,3 @@ This README file provides a list of resources where you can find useful Python p
 * **Test your solutions thoroughly:** Write unit tests to ensure your code works as expected.
 * **Review and learn from your mistakes:** Analyze your solutions, identify areas for improvement, and learn from your errors.
 * **Practice regularly:** Consistent practice is key to improving your coding skills.
-
-I hope this helps! Let me know if you have any other questions.
